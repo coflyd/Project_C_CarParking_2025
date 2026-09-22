@@ -1,6 +1,6 @@
 README.md
 
-Auteurs : Constance Fleury & Louis
+Auteurs : Constance Fleury
 Projet : ESIEA 3A S1 - Année 2025/2026
 Date de création : 12 décembre 2025
 
@@ -8,7 +8,6 @@ Projet Autonome en Programmation C - 3A
 SIMULATEUR DE PARKING LE JEU
 
 Un simulateur de parking intelligent développé en C, permettant de gérer le stationnement automatisé de véhicules dans un parking payant avec affichage terminal dynamique utilisant ncurses.
-
 
 Table des matières
     Description
@@ -38,6 +37,8 @@ Visuel :
     Modes de difficulté multiples : Fluide, Chargé, et taux de remplissage initial du parking
     Personnalisation : Design de véhicules et décor modifiables
 
+    <img width="1401" height="777" alt="Capture d’écran 2026-09-22 à 17 58 01" src="https://github.com/user-attachments/assets/91d50fb1-b03a-47da-bd6b-871f0789858a" />
+
 Technique :
     Liste chaînée : Gestion dynamique des véhicules en mémoire
     Support UTF-8 complet : Affichage de caractères spéciaux et émojis via ncursesw
@@ -66,12 +67,14 @@ Librairies système standard :
 
 
 Utilisation du jeu
-Lancer le simulateur : ./Debug/C_project_car2
+#Lancer le simulateur : ./Debug/C_project_car2
 
-IMPORTANT : Ajustez le chemin du fichier dans main.c selon votre installation :
+#IMPORTANT : Ajustez le chemin du fichier dans main.c selon votre installation :
     cchar parkingPlanFileName[] = "/Users/constancefleury/Desktop/C_project_car2/src/data/parking.txt";
 
 Menu de démarrage :
+
+<img width="531" height="261" alt="Capture d’écran 2026-09-22 à 17 58 37" src="https://github.com/user-attachments/assets/4975649a-5960-4518-8072-349a4c4026d4" />
 
 Choisir le mode de jeu avec les touches numériques :
     1 : Mode CHARGÉ (trafic dense)
