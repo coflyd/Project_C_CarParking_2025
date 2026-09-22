@@ -1,0 +1,24 @@
+Terminal width: 204
+Terminal height: 63
+Nb lignes parking: 49
+
+Ligne 0: 583 octets, 197 chars UTF-8
+  Derniers octets (hex): 95 90 E2 95 90 E2 95 90 E2 95 90 E2 95 90 E2 95 90 E2 95 97 
+  Derniers chars: [....................]
+
+Ligne 1: 247 octets, 197 chars UTF-8
+  Derniers octets (hex): 20 20 20 20 20 20 20 E2 95 91 20 20 20 20 20 20 20 E2 95 91 
+  Derniers chars: [       ...       ...]
+
+Ligne 2: 247 octets, 197 chars UTF-8
+  Derniers octets (hex): 20 20 20 20 20 20 20 E2 95 91 20 20 20 20 20 20 20 E2 95 91 
+  Derniers chars: [       ...       ...]
+
+Ligne 3: 247 octets, 197 chars UTF-8
+  Derniers octets (hex): 20 20 20 20 20 20 20 E2 95 91 20 20 20 20 20 20 20 E2 95 91 
+  Derniers chars: [       ...       ...]
+
+Ligne 4: 201 octets, 197 chars UTF-8
+  Derniers octets (hex): 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 E2 95 91 
+  Derniers chars: [                 ...]
+
